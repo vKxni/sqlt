@@ -126,7 +126,7 @@ defmodule Query do
   @doc """
 
   Sometimes we want to see what is going on in our database. 
-  We want to lookup all of our trafic and what data is being saved.
+  We want to lookup all of our traffic and what data is being saved.
 
   Fortunately, we have the ".all()" function that returns all of our data
   into our console, perfect for some small use cases.
